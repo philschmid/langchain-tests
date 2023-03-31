@@ -1,0 +1,5 @@
+langchain
+openai
+datasets
+sentence_transformers
+python-frontmatter
